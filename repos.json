@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "MikasaNethunter",
-      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
-      "branch": "Light",
-      "device": "mikasa"
+      "name": "Nethunter-Sky",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git",
+      "branch": "sky-t-oss",
+      "device": "gki_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
