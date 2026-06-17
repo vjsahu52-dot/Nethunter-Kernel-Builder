@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "Nethunter-Sky",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git",
-      "branch": "sky-t-oss",
+      "repo": "https://github.com/xiaomi-sm4450-sky/kernel_xiaomi_sky.git",
+      "branch": "lineage-23.1",
       "device": "gki_defconfig"
     },
     "withKernelSU": false,
